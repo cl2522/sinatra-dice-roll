@@ -22,6 +22,7 @@ get("/") do
     <li><a href=\"/dice/5/4\">Roll five 4-sided dice</a></li>
   </ul>
   "
+  erb(:elephant)
 end
 
 
